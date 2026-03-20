@@ -4,6 +4,6 @@ export const Route = createFileRoute('/')({ component: App })
 
 function App() {
   return (<>
-    <h1>Hi dad!</h1>
+    <h1>Hi parker!</h1>
   </>)
 }
