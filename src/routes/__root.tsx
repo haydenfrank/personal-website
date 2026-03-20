@@ -1,7 +1,7 @@
 import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
 
 import appCss from '../styles.css?url'
-import appIcon from '/favicon.ico'
+import appIcon from '/favicon.ico?v=2'
 
 export const Route = createRootRoute({
   head: () => ({
