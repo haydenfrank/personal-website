@@ -22,6 +22,11 @@ function App() {
             Access my Jellyseerr requesting service.
           </a>
         </li>
+        <li>
+          <a href="https://docker.haydenbfrank.com">
+            Access my Portainer to manage my docker containers.
+          </a>
+        </li>
       </ul>
       <img src="/minion-laugh-minion.gif" className="minion" />
       <img src="/minions-excited.gif" className="minion" />
