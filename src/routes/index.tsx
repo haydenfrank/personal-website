@@ -31,6 +31,7 @@ function App() {
       <img src="/minion-laugh-minion.gif" className="minion" />
       <img src="/minions-excited.gif" className="minion" />
       <img src="/minions-sad.gif" className="minion" />
+      <img src="/minions-pool.gif" className="minion" />
     </>
   )
 }
