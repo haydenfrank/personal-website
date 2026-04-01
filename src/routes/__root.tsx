@@ -21,10 +21,11 @@ export const Route = createRootRoute({
       {
         rel: 'stylesheet',
         href: appCss,
-      }, {
+      },
+      {
         rel: 'icon',
-        href: appIcon
-      }
+        href: appIcon,
+      },
     ],
   }),
   shellComponent: RootDocument,
@@ -32,7 +33,7 @@ export const Route = createRootRoute({
 
 function RootDocument({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" >
+    <html lang="en">
       <head>
         <HeadContent />
       </head>

@@ -3,7 +3,7 @@ services:
     image: ghcr.io/haydenfrank/personal-website:latest
     container_name: webapp
     ports:
-      - "3000:3000"
+      - '3000:3000'
     restart: unless-stopped
   watchtower:
     image: containrrr/watchtower
