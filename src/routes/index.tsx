@@ -32,6 +32,9 @@ function App() {
               Access my Portainer to manage my docker containers.
             </a>
           </li>
+          <li>
+            <a href="https://new.haydenbfrank.com">New link to Jellyfin!</a>
+          </li>
         </ul>
         <button className="button-29" onClick={() => setShown((s) => !s)}>
           {' '}
